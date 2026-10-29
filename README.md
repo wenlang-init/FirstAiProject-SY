@@ -115,3 +115,7 @@ Qt 6.12 + MinGW 64-bit，用 Qt Creator 打开根目录的 `CMakeLists.txt`，�
 - `release_out/` 下的安装包不进仓库，只作为 GitHub Release 附件发布。
 - 签名文件（`sy.jks`、`keystore.properties`）与本机 SDK 路径（`local.properties`）已在 `.gitignore` 中排除，不会入库。
 - 仓库不含第三方哈希源码之外的依赖，构建仅需官方 Android SDK / Qt。
+
+## 许可
+
+[MIT](LICENSE)
