@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== Material3 配色（Dark） ===== -->
+
+    <color name="primary">#6ADBA9</color>
+    <color name="on_primary">#003826</color>
+    <color name="primary_container">#005138</color>
+    <color name="on_primary_container">#8EF7C0</color>
+
+    <color name="secondary">#B3CCBD</color>
+    <color name="on_secondary">#1A352B</color>
+    <color name="secondary_container">#324B3F</color>
+    <color name="on_secondary_container">#CFE9DA</color>
+
+    <color name="tertiary">#A5CFE3</color>
+    <color name="on_tertiary">#003543</color>
+    <color name="tertiary_container">#1D4C5B</color>
+    <color name="on_tertiary_container">#C1E9FB</color>
+
+    <color name="error">#FFB4AB</color>
+    <color name="on_error">#690005</color>
+    <color name="error_container">#93000A</color>
+    <color name="on_error_container">#FFDAD6</color>
+
+    <color name="background">#101412</color>
+    <color name="on_background">#E1E3DF</color>
+    <color name="surface">#101412</color>
+    <color name="on_surface">#E1E3DF</color>
+    <color name="surface_variant">#404943</color>
+    <color name="on_surface_variant">#C0C9C1</color>
+
+    <color name="outline">#8A938C</color>
+    <color name="outline_variant">#404943</color>
+
+    <color name="surface_container_lowest">#0B0E0C</color>
+    <color name="surface_container_low">#191C1A</color>
+    <color name="surface_container">#1D201E</color>
+    <color name="surface_container_high">#272A28</color>
+    <color name="surface_container_highest">#323532</color>
+
+    <color name="inverse_surface">#E1E3DF</color>
+    <color name="inverse_on_surface">#2E312E</color>
+    <color name="inverse_primary">#006C4C</color>
+
+    <color name="ic_launcher_background">#10241C</color>
+</resources>

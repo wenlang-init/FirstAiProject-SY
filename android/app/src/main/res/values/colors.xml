@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== Material3 配色（Light）：以 #006C4C 为主题的派生色板 ===== -->
+
+    <!-- Primary -->
+    <color name="primary">#006C4C</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#8EF7C0</color>
+    <color name="on_primary_container">#002114</color>
+
+    <!-- Secondary -->
+    <color name="secondary">#4C6358</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#CFE9DA</color>
+    <color name="on_secondary_container">#082019</color>
+
+    <!-- Tertiary -->
+    <color name="tertiary">#3D6473</color>
+    <color name="on_tertiary">#FFFFFF</color>
+    <color name="tertiary_container">#C1E9FB</color>
+    <color name="on_tertiary_container">#001F2A</color>
+
+    <!-- Error -->
+    <color name="error">#BA1A1A</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#FFDAD6</color>
+    <color name="on_error_container">#410002</color>
+
+    <!-- Background / Surface -->
+    <color name="background">#FBFDF9</color>
+    <color name="on_background">#191C1A</color>
+    <color name="surface">#FBFDF9</color>
+    <color name="on_surface">#191C1A</color>
+    <color name="surface_variant">#DCE5DD</color>
+    <color name="on_surface_variant">#404943</color>
+
+    <!-- Outline -->
+    <color name="outline">#707973</color>
+    <color name="outline_variant">#C0C9C1</color>
+
+    <!-- Tonal elevation（Material3 组件内部使用） -->
+    <color name="surface_container_lowest">#FFFFFF</color>
+    <color name="surface_container_low">#F5F8F4</color>
+    <color name="surface_container">#EFF2ED</color>
+    <color name="surface_container_high">#E9EDE7</color>
+    <color name="surface_container_highest">#E3E7E1</color>
+
+    <!-- Inverse -->
+    <color name="inverse_surface">#2E312E</color>
+    <color name="inverse_on_surface">#EFF2ED</color>
+    <color name="inverse_primary">#6ADBA9</color>
+
+    <!-- 启动图标背景（Adaptive Icon） -->
+    <color name="ic_launcher_background">#E8F5EE</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 夜间入口：配色仍来自 Theme.Sy.Base（会自动取 values-night/colors.xml），
+         这里只翻转状态栏图标颜色 -->
+    <style name="Theme.Sy" parent="Theme.Sy.Base">
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

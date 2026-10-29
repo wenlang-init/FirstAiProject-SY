@@ -1,0 +1,70 @@
+# ==========================================================
+# Qt 桌面版（根目录 main.cpp / src / CMakeLists.txt）
+# ==========================================================
+build/
+release/
+debug/
+.qtcreator/
+.qtc_clangd/
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+*.pro.user
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile
+
+# ==========================================================
+# Android 工程（android/）
+# ==========================================================
+android/.gradle/
+android/.kotlin/
+android/.idea/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/.cxx/
+android/captures/
+android/.externalNativeBuild/
+*.iml
+
+# 本机 SDK 路径，每人不同
+local.properties
+
+# ==========================================================
+# 签名：含密码，禁止入库（用 gen_keystore.bat 重新生成）
+# ==========================================================
+android/sy.jks
+android/keystore.properties
+*.jks
+*.keystore
+*.p12
+
+# ==========================================================
+# 构建产物
+# ==========================================================
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# ==========================================================
+# 系统 / 编辑器
+# ==========================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# ==========================================================
+# 原始备份压缩包（src/ 已含完整 Qt 源码，无需冗余二进制）
+# ==========================================================
+sy-qt.rar
+*.rar
+*.zip
+*.7z

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">兽音工具箱</string>
+
+    <string name="tab_beast">兽音</string>
+    <string name="tab_hash">HASH</string>
+    <string name="tab_file">文件</string>
+    <string name="tab_code">代码</string>
+    <string name="tab_radix">进制</string>
+
+    <string name="menu_copy">拷贝结果</string>
+    <string name="menu_paste">从剪贴板输入</string>
+    <string name="menu_clear">清空</string>
+
+    <string name="hint_input">在此输入文本，结果也会输出到这里</string>
+    <string name="label_key">密令(4个字)</string>
+    <string name="encode">编码</string>
+    <string name="decode">解码</string>
+
+    <string name="mode1">编码1(unicode≤16bit)</string>
+    <string name="mode2">编码2</string>
+    <string name="mode3">编码3</string>
+
+    <string name="hash_from_input">来自输入</string>
+    <string name="hash_from_file">来自文件</string>
+    <string name="hash_stop">停止计算</string>
+
+    <string name="file1">文件1</string>
+    <string name="file2">文件2</string>
+    <string name="pick">选择</string>
+    <string name="encode_file">编码文件</string>
+    <string name="decode_file">解码文件</string>
+    <string name="encrypt_file">加密文件</string>
+    <string name="decrypt_file">解密文件</string>
+    <string name="merge_file">文件叠加</string>
+    <string name="cancel">取消</string>
+
+    <string name="base64_encode">Base64 编码</string>
+    <string name="base64_decode">Base64 解码</string>
+    <string name="gen_code">生成代码</string>
+    <string name="random_key">随机密钥</string>
+    <string name="key_hex">密钥(HEX)</string>
+
+    <string name="radix_input">进制转换输入</string>
+    <string name="radix_convert">转换</string>
+    <string name="radix_from">源进制</string>
+    <string name="radix_to">目标进制</string>
+
+    <!-- Material3 TextInputLayout 浮动提示 -->
+    <string name="hint_alg">算法</string>
+    <string name="hint_result">结果</string>
+    <string name="hint_file1">文件1</string>
+    <string name="hint_file2">文件2</string>
+    <string name="hint_key_hex">密钥(HEX)</string>
+</resources>

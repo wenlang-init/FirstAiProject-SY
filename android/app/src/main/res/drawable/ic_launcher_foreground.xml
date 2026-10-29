@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive Icon 前景：声波柱状图，贴合"兽音"主题。
+     注意：启动图标由系统 Launcher 渲染，不能使用 ?attr/xxx 主题色，必须是字面颜色。 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#006C4C"
+        android:pathData="M21,46h10v16H21z" />
+    <path
+        android:fillColor="#006C4C"
+        android:pathData="M35,34h10v40H35z" />
+    <path
+        android:fillColor="#006C4C"
+        android:pathData="M49,22h10v64H49z" />
+    <path
+        android:fillColor="#006C4C"
+        android:pathData="M63,34h10v40H63z" />
+    <path
+        android:fillColor="#006C4C"
+        android:pathData="M77,46h10v16H77z" />
+</vector>
